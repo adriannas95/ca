@@ -1,0 +1,8 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"allowJs": true,
+		"types": ["cypress", "node"]
+	},
+	"include": ["node_modules/cypress", "./cypress/**/*.js"]
+}

@@ -1,0 +1,23 @@
+{
+	"name": "cap-recruitment-task",
+	"version": "1.0.0",
+	"description": "Code and Pepper Recrutiment Task Solution",
+	"main": "index.js",
+	"scripts": {
+		"cy:open": "cypress open",
+		"cy:run": "cypress run"
+	},
+	"keywords": [
+		"cypress",
+		"automation",
+		"javascript"
+	],
+	"author": "Adrianna Szczepanska",
+	"license": "ISC",
+	"devDependencies": {
+		"cypress": "^10.7.0"
+	},
+	"dependencies": {
+		"prettier": "^3.0.3"
+	}
+}
