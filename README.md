@@ -1,4 +1,4 @@
-# cap-recruitment-solution
+# playing with a simple shopping app and testing in with Cypress
 > Live demo [_here_](https://www.saucedemo.com).
 
 
