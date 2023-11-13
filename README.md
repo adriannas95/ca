@@ -1,4 +1,4 @@
-# playing with a simple shopping app and testing in with Cypress
+# playing with a simple shopping app and testing it with Cypress
 > Live demo [_here_](https://www.saucedemo.com).
 
 
