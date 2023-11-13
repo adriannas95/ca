@@ -3,7 +3,7 @@
 
 
 ## General Information
-- This is a solution for CaP recruitment task in JavaScript
+- A simple shopping app tested using Cypress
 
 
 ## Technologies Used
