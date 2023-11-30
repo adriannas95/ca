@@ -24,6 +24,7 @@ Room for improvement:
 - Comparing items via different users
 - Start using fixtures
 - Hide usernames and passwords
+- More performance scripts needed
 
 ## Contact
 Created by Adrianna Szczepańska [adrianna.szczepanska1@outlook.com] - feel free to contact me!
